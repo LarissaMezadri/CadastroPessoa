@@ -1,0 +1,7 @@
+br\com\desafio\officer\repositorio\CadastroPessoaRepositorio.class
+br\com\desafio\officer\OfficerApplication.class
+br\com\desafio\officer\controlador\CadastroPessoaControlador.class
+br\com\desafio\officer\entidades\CadastroPessoa.class
+br\com\desafio\officer\entidades\dto\CadastroPessoaDTO.class
+br\com\desafio\officer\servicos\CadastroPessoaServico.class
+br\com\desafio\officer\servicos\CadastroPessoaServicoImpl.class
